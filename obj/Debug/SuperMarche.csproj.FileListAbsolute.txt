@@ -1,0 +1,17 @@
+E:\TD\SuperMarche\bin\Debug\SuperMarche.exe.config
+E:\TD\SuperMarche\bin\Debug\SuperMarche.exe
+E:\TD\SuperMarche\bin\Debug\SuperMarche.pdb
+E:\TD\SuperMarche\bin\Debug\Guna.UI.dll
+E:\TD\SuperMarche\obj\Debug\SuperMarche.csproj.AssemblyReference.cache
+E:\TD\SuperMarche\obj\Debug\SuperMarche.csproj.SuggestedBindingRedirects.cache
+E:\TD\SuperMarche\obj\Debug\SuperMarche.Connexion.resources
+E:\TD\SuperMarche\obj\Debug\SuperMarche.Properties.Resources.resources
+E:\TD\SuperMarche\obj\Debug\SuperMarche.csproj.GenerateResource.cache
+E:\TD\SuperMarche\obj\Debug\SuperMarche.csproj.CoreCompileInputs.cache
+E:\TD\SuperMarche\obj\Debug\SuperMarche.csproj.CopyComplete
+E:\TD\SuperMarche\obj\Debug\SuperMarche.exe
+E:\TD\SuperMarche\obj\Debug\SuperMarche.pdb
+E:\TD\SuperMarche\obj\Debug\SuperMarche.Articles.resources
+E:\TD\SuperMarche\obj\Debug\SuperMarche.Categories.resources
+E:\TD\SuperMarche\obj\Debug\SuperMarche.Sellers.resources
+E:\TD\SuperMarche\obj\Debug\SuperMarche.Bills.resources
